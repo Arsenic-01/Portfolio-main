@@ -192,7 +192,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: '/kkw.png',
+    img: '/college.png',
     role: 'FullStack Engineering Intern',
     company: 'K.K.Wagh Polytechnic Nashik',
     date: 'Dec 2023 - Feb 2024',
