@@ -80,7 +80,8 @@ export const skills = [
       },
       {
         name: 'PHP',
-        image: 'https://cdn.worldvectorlogo.com/logos/php-1.svg',
+        image:
+          'https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png',
       },
       {
         name: 'Python',
@@ -319,7 +320,7 @@ export const projects = [
     date: 'Feb 2024 - Present',
     description:
       'Designed and Developed a Web Application for SBA. Added user authentication, admin access, time-tracking and appointment scheduling system.',
-    image: '/sba-main.png',
+    image: '/sba-hero.png',
     tags: [
       'Next Js',
       'React Js',
